@@ -1,0 +1,17 @@
+# Derlenmiş sınıf dosyaları
+*.class
+
+# Log dosyaları
+*.log
+
+# VS Code ayarları
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Rapor dosyası (her seferinde değiştiği için)
+Rapor.txt
+ProjeRaporu.txt
